@@ -56,7 +56,8 @@ h2 strong {
 	
 }
 #center {
-	
+  width: 960px;
+  text-align: center;	
 }
 strong {
 	
