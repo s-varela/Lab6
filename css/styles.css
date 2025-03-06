@@ -89,13 +89,13 @@ h2 strong {
 }
 
 #main-nav ul li {
-  	
+  float: left;
+  position: relative;
+  right: 50%; 	
 }
 
 #main-nav ul li a {
-  float: left;
-  position: relative;
-  right: 50%;}	
+  	
 }
 
 #main-nav ul li a:hover {
