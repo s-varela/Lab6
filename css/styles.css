@@ -97,7 +97,8 @@ h2 strong {
 }
 
 #main-nav ul li a:hover {
-	
+  background-color: #ccc;
+  color: #333;		
 }
 
 #center {
