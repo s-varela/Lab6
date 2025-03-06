@@ -61,11 +61,17 @@ h2 strong {
 }
 
 #main-nav {
-	
+  background-color: #ccc;
+  color: #333;}	
 }
 
 #main-nav ul {
-	
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  float: left;
+  position: relative;
+  left:50%;	
 }
 
 #main-nav ul li {
