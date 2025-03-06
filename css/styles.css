@@ -51,7 +51,9 @@ body {
 }
 
 #main-content {
-	
+  float: left;
+  position: relative;
+  right: 50%;	
 }
 
 h2 strong {
