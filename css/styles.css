@@ -5,6 +5,7 @@ body {
 #page-wrapper {
 	
 }
+
 #header{
 	
 }
@@ -21,9 +22,11 @@ body {
 #header a#logo1 img {
 	
 }
+
 #header #toplink {
 	
 }
+
 #footer {
 	
 }
@@ -36,27 +39,40 @@ body {
 #main-content {
 	
 }
+
 h2 strong {
 	
 }
+
 .image-r {
-	
+  float: right;
+  border: 2px solid blue;
+  width: 300px;
+  padding: 5px;
+  background-color: white;
+  margin: 10px 0 10px 20px;	
 }
+
 #side-content {
 	
 }
+
 #main-nav {
 	
 }
+
 #main-nav ul {
 	
 }
+
 #main-nav ul li {
   	
 }
+
 #main-nav ul li a {
 	
 }
+
 #main-nav ul li a:hover {
 	
 }
