@@ -75,16 +75,16 @@ h2 strong {
 }
 
 #main-nav ul li {
+  	
+}
+
+#main-nav ul li a {
   text-decoration: none;
   position: absolute;
   top:-34px;
   right: 10px;
   color: white;
   font-size: 1.8em;	
-}
-
-#main-nav ul li a {
-	
 }
 
 #main-nav ul li a:hover {
