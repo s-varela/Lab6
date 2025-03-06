@@ -62,12 +62,14 @@ h2 strong {
 }
 
 #side-content {
-	
+  
 }
 
 #main-nav {
-  background-color: #ccc;
-  color: #333;}	
+  padding: 10px 25px;
+  display: block;
+  text-decoration: none;
+  color: #ccc;	
 }
 
 #main-nav ul {
