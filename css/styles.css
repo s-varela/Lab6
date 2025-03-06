@@ -40,7 +40,9 @@ body {
 }
 
 #footer {
-	
+  background-color: #777;
+  height: 80px;
+  clear: both;	
 }
 
 #content-wrapper {
