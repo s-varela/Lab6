@@ -51,9 +51,7 @@ body {
 }
 
 #main-content {
-  float: left;
-  position: relative;
-  right: 50%;	
+  	
 }
 
 h2 strong {
@@ -95,7 +93,9 @@ h2 strong {
 }
 
 #main-nav ul li a {
-  	
+  float: left;
+  position: relative;
+  right: 50%;}	
 }
 
 #main-nav ul li a:hover {
