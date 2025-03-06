@@ -1,12 +1,14 @@
 body {
   background-image: url("../images/black.jpg");
 }
+
 #page-wrapper {
 	
 }
 #header{
 	
 }
+
 #header h1 {
   position: absolute;
   left: 420px;
@@ -15,6 +17,7 @@ body {
   font-family: 'Devonshire', cursive;
   color: #E35335;	
 }
+
 #header a#logo1 img {
 	
 }
@@ -24,10 +27,12 @@ body {
 #footer {
 	
 }
+
 #content-wrapper {
   background-image: url("../images/repeating.png");
   float: left;	
 }
+
 #main-content {
 	
 }
@@ -55,10 +60,12 @@ h2 strong {
 #main-nav ul li a:hover {
 	
 }
+
 #center {
   width: 960px;
-  text-align: center;	
+  text-align: center;
 }
+
 strong {
 	
 }
